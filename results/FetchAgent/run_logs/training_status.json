@@ -1,0 +1,65 @@
+{
+    "FetchAgent": {
+        "checkpoints": [
+            {
+                "steps": 3499984,
+                "file_path": "results\\FetchAgent\\FetchAgent\\FetchAgent-3499984.onnx",
+                "reward": 0.9693333334392972,
+                "creation_time": 1724065780.7232294,
+                "auxillary_file_paths": [
+                    "results\\FetchAgent\\FetchAgent\\FetchAgent-3499984.pt"
+                ]
+            },
+            {
+                "steps": 3999946,
+                "file_path": "results\\FetchAgent\\FetchAgent\\FetchAgent-3999946.onnx",
+                "reward": 0.968835616356706,
+                "creation_time": 1724066075.8119526,
+                "auxillary_file_paths": [
+                    "results\\FetchAgent\\FetchAgent\\FetchAgent-3999946.pt"
+                ]
+            },
+            {
+                "steps": 4499997,
+                "file_path": "results\\FetchAgent\\FetchAgent\\FetchAgent-4499997.onnx",
+                "reward": 0.9921052633670339,
+                "creation_time": 1724066372.8333373,
+                "auxillary_file_paths": [
+                    "results\\FetchAgent\\FetchAgent\\FetchAgent-4499997.pt"
+                ]
+            },
+            {
+                "steps": 4999969,
+                "file_path": "results\\FetchAgent\\FetchAgent\\FetchAgent-4999969.onnx",
+                "reward": 0.9618827161597617,
+                "creation_time": 1724066671.092197,
+                "auxillary_file_paths": [
+                    "results\\FetchAgent\\FetchAgent\\FetchAgent-4999969.pt"
+                ]
+            },
+            {
+                "steps": 5000006,
+                "file_path": "results\\FetchAgent\\FetchAgent\\FetchAgent-5000006.onnx",
+                "reward": 0.9620000001100394,
+                "creation_time": 1724066671.1337326,
+                "auxillary_file_paths": [
+                    "results\\FetchAgent\\FetchAgent\\FetchAgent-5000006.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000006,
+            "file_path": "results\\FetchAgent\\FetchAgent.onnx",
+            "reward": 0.9620000001100394,
+            "creation_time": 1724066671.1337326,
+            "auxillary_file_paths": [
+                "results\\FetchAgent\\FetchAgent\\FetchAgent-5000006.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

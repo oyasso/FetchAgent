@@ -1,0 +1,38 @@
+{
+    "FetchAgent": {
+        "checkpoints": [
+            {
+                "steps": 499951,
+                "file_path": "results\\FetchAgent3\\FetchAgent\\FetchAgent-499951.onnx",
+                "reward": 0.5714285714285714,
+                "creation_time": 1724070499.5871727,
+                "auxillary_file_paths": [
+                    "results\\FetchAgent3\\FetchAgent\\FetchAgent-499951.pt"
+                ]
+            },
+            {
+                "steps": 500015,
+                "file_path": "results\\FetchAgent3\\FetchAgent\\FetchAgent-500015.onnx",
+                "reward": 0.5714285714285714,
+                "creation_time": 1724070499.629208,
+                "auxillary_file_paths": [
+                    "results\\FetchAgent3\\FetchAgent\\FetchAgent-500015.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500015,
+            "file_path": "results\\FetchAgent3\\FetchAgent.onnx",
+            "reward": 0.5714285714285714,
+            "creation_time": 1724070499.629208,
+            "auxillary_file_paths": [
+                "results\\FetchAgent3\\FetchAgent\\FetchAgent-500015.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

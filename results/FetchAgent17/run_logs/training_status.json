@@ -1,0 +1,47 @@
+{
+    "FetchAgent": {
+        "checkpoints": [
+            {
+                "steps": 499972,
+                "file_path": "results\\FetchAgent17\\FetchAgent\\FetchAgent-499972.onnx",
+                "reward": 0.8308457711442786,
+                "creation_time": 1724094765.9402287,
+                "auxillary_file_paths": [
+                    "results\\FetchAgent17\\FetchAgent\\FetchAgent-499972.pt"
+                ]
+            },
+            {
+                "steps": 999994,
+                "file_path": "results\\FetchAgent17\\FetchAgent\\FetchAgent-999994.onnx",
+                "reward": 0.8772727272727273,
+                "creation_time": 1724095080.8124533,
+                "auxillary_file_paths": [
+                    "results\\FetchAgent17\\FetchAgent\\FetchAgent-999994.pt"
+                ]
+            },
+            {
+                "steps": 1000007,
+                "file_path": "results\\FetchAgent17\\FetchAgent\\FetchAgent-1000007.onnx",
+                "reward": 0.8783783783783784,
+                "creation_time": 1724095080.8599944,
+                "auxillary_file_paths": [
+                    "results\\FetchAgent17\\FetchAgent\\FetchAgent-1000007.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000007,
+            "file_path": "results\\FetchAgent17\\FetchAgent.onnx",
+            "reward": 0.8783783783783784,
+            "creation_time": 1724095080.8599944,
+            "auxillary_file_paths": [
+                "results\\FetchAgent17\\FetchAgent\\FetchAgent-1000007.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
